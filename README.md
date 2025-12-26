@@ -12,6 +12,11 @@ Built with **Canvas + Matter.js**, designed to be fun without being destructive.
 
 ---
 
+### 🔗 Live Demo
+https://snowstack-live-demo.vercel.app/
+
+---
+
 ## ✨ Features
 
 - 🌨 **Snowfall Engine** — density, speed, size, wind
